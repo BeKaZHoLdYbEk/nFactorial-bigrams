@@ -1,0 +1,3 @@
+As you downloaded files, don't forget to hit "ctrl + s" in each file. 
+Then with the plugin "open in browser" or "live server" open my site, and
+do your judge stuff.
