@@ -1,0 +1,25 @@
+li {
+  list-style-type: square;
+  color: #5e412e;
+  font-size: 25px;
+}
+* {
+  margin-left: 40px;
+}
+
+body {
+  background: #d4c4c1;
+}
+h1 {
+  color: #5e412e;
+  font-size: 40px;
+}
+p {
+  color: #5e412e;
+  font-size: 25px;
+}
+input {
+  color: #5e412e;
+  background-color: #e2d6d4;
+  border-color: #5e412e;
+}
